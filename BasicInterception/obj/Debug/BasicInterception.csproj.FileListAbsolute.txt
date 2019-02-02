@@ -1,0 +1,15 @@
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\bin\Debug\BasicInterception.exe.config
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\bin\Debug\BasicInterception.exe
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\bin\Debug\BasicInterception.pdb
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\bin\Debug\StructureMap.dll
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\bin\Debug\StructureMap.Net4.dll
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\bin\Debug\StructureMap.pdb
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\bin\Debug\StructureMap.xml
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\bin\Debug\StructureMap.Net4.pdb
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\obj\Debug\BasicInterception.csprojAssemblyReference.cache
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\obj\Debug\BasicInterception.csproj.CoreCompileInputs.cache
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\obj\Debug\BasicInterception.csproj.CopyComplete
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\obj\Debug\BasicInterception.exe
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\obj\Debug\BasicInterception.pdb
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\bin\Debug\Castle.Core.dll
+C:\Users\Gustav\source\repos\BasicInterception\BasicInterception\bin\Debug\Castle.Core.xml
